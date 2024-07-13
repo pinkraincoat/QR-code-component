@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](images/qr-code screenshot.jpeg)
+![screenshot](images/qr-code-screenshot.jpeg?raw=true)
 ### Links
 - Live Site URL: [pinkraincoat.github.io](https://pinkraincoat.github.io/QR-code-component/)
 
